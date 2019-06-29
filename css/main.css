@@ -1,0 +1,10 @@
+
+td {
+  text-align: center;
+  border: 1px solid black;
+  height: 50px;
+  width: 50px;
+}
+.reset{
+  margin-top: 15px;
+}
